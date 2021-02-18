@@ -1,0 +1,42 @@
+#firstheaderText{
+    font-family:'Yellowtail', cursive;
+}
+#secondheaderText{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #bbbbbb;
+    
+}
+#icons{
+    float: right;
+    margin-top: 35px;
+    margin-right: 10px;
+
+}
+#LogoandName{
+    display: inline-block;
+}
+#Print{
+    float:right;
+    margin-right: 10px;
+    margin-left: 50px;
+    margin-right: 10px;
+   
+}
+#firstSection{
+    float: left;
+    width: 50%;
+}
+body{
+    width: 100%;
+}
+#Paragraphs{
+    color:rgb(82, 42, 36);
+    font-size: 20px;
+}
+#RightSection{
+    display: inline-block;
+}
+#sectionLeft{
+    display: inline-block;
+}
