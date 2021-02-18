@@ -36,7 +36,66 @@ body{
 }
 #RightSection{
     display: inline-block;
+   
+
 }
 #sectionLeft{
     display: inline-block;
+}
+.hr{
+    background-image: url("./img/hr-img.png");
+    height: 10px;
+}
+#mainSection{
+    text-align: center;
+   
+}
+
+#divImgover{
+    background-image: url("./img/list-bg.png");
+}
+#profilPic{
+ display: inline-block;
+ margin-right: 6px;
+}
+#titel{
+display: inline-block;
+}
+#vanessaSection{
+    margin-top: 20px;
+    
+}
+#btn{
+    float: right;
+    margin-top: 40px;
+    margin-right: 30px;
+    padding: 10;
+    background-color: rgb(153, 33, 33);
+    color: white;
+    height: 30px;
+    width: 120px;
+    font-size: 10px;
+}
+footer{
+    position: relative;
+}
+#lhr{
+    position: absolute;
+    width: 47%;
+}
+#rhr{
+    width: 50%;
+    margin-top: 5px;
+    
+    
+}
+#logoFooter2{
+    margin-top: -1%;
+ position: absolute;
+    left: 47%;
+}
+#finally{
+    margin-top: 50px;
+    color: gray;
+    text-align: center;
 }
