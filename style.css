@@ -1,9 +1,12 @@
 #firstheaderText{
     font-family:'Yellowtail', cursive;
+    font-size: 40px;
+    
 }
 #secondheaderText{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 10px;
+    font-size: 9px;
+    margin-top: -9%;
     color: #bbbbbb;
     
 }
@@ -33,26 +36,36 @@ body{
 #Paragraphs{
     color:rgb(82, 42, 36);
     font-size: 20px;
+    margin-left: 130px;
+    margin-right: 180px;
 }
 #RightSection{
     display: inline-block;
+    text-align: left;
+     margin-left: 100px;
+
+    
    
 
 }
 #sectionLeft{
     display: inline-block;
+    text-align: left;
+    margin-right: 25px;
+     margin-left: 70px;
+}
+#mainSection{
+    margin-left: 130px;
 }
 .hr{
     background-image: url("./img/hr-img.png");
     height: 10px;
 }
-#mainSection{
-    text-align: center;
-   
-}
+
 
 #divImgover{
     background-image: url("./img/list-bg.png");
+    width: 700px;
 }
 #profilPic{
  display: inline-block;
@@ -84,15 +97,19 @@ footer{
     width: 47%;
 }
 #rhr{
-    width: 50%;
-    margin-top: 5px;
+    width: 47%;
+     position: absolute;
+     margin-left: 51.1%;
     
-    
+}
+#logoFooter{
+    display: inline-block;
 }
 #logoFooter2{
     margin-top: -1%;
  position: absolute;
     left: 47%;
+    filter: brightness(1.5) ;
 }
 #finally{
     margin-top: 50px;
